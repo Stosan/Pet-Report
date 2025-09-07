@@ -1,0 +1,12 @@
+{
+  "pet_default": {
+    "theme_bg_color": "#F5F0E1",
+    "H1Style_textColor": "#3A7E7E",
+    "SectionTitle_textColor": "#3A7E7E",
+    "BodyText_textColor": "#333333",
+    "H3Style_textColor": "#3A7E7E",
+    "PetQuoteStyle_textColor": "#555555",
+    "ClientTableFeatureStyle_textColor": "#3A7E7E",
+    "ClientTableDataStyle_textColor": "#333333"
+  }
+}
