@@ -1,5 +1,7 @@
 Hi Dan,
-I think you're unto something special  cosmic pawprint. Unfortuately I could not bid on upwork due to my connect points being exhausted, so I have resolved to taking this approach and I hope you get to see it.
+I think you're unto something special cosmic pawprint. Unfortuately I could not bid on upwork due to my connect points being exhausted, so I have resolved to taking this approach and I hope you get to see it.
+
+I may not be in Europe/Americas but I strongly believe I am the perfect fit to build up Furreal Paws.
 
 ### Brief Introductions
 My name is Sam Ayo, I'm an AI/ML engineer and a senior Software engineer with experience across many domains/industries and stacks.
